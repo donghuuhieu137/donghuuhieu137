@@ -46,7 +46,7 @@ I am an open-source enthusiast and maintainer. I've learned a lot from the open-
 
 **Buy me a coffee ☕:**
 
-<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="240" ></a>
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="250" ></a>
 
 <br />
 
