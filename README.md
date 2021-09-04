@@ -19,12 +19,11 @@ Hi, I'm [Hiếu Trứng](https://www.facebook.com/profile.php?id=100009130705198
 
 I am an open-source enthusiast and maintainer. I've learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<br />
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? Contact me at: [Email](donghuuhieu137@gmail.com)
-- 💬 Ask me about anything, I'll be happy to help you out
+- 💬 Ask me about anything, I'll be happy to help you out !!!
 
 **Languages and tools:** 
 
@@ -42,11 +41,12 @@ I am an open-source enthusiast and maintainer. I've learned a lot from the open-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 -->
+
 <br />
 
 **Buy me a coffee ☕:**
 
-<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="250" ></a>
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="300" ></a>
 
 <br />
 
