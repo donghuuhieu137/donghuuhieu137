@@ -14,11 +14,11 @@
 
 <br /> <br />
 
-Hi, I'm [Hiếu Trứng](https://www.facebook.com/profile.php?id=100009130705198), backend developer from **VietNam** <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="28" /> .
+Hi, I'm [Hiếu Trứng](https://www.facebook.com/profile.php?id=100009130705198), backend developer from **Viet Nam** <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="28" /> .
 
 I am an open-source enthusiast and maintainer. I've learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<br \>
+<br />
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -49,7 +49,7 @@ I am an open-source enthusiast and maintainer. I've learned a lot from the open-
 
 <br />
 
-📈 **My github stats**
+📈 **My GitHub statistics:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=donghuuhieu137&show_icons=true&theme=gotham" alt="#" />
 
