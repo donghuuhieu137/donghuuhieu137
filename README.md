@@ -14,7 +14,8 @@
 
 <br /> <br />
 
-Hi, I'm [Hiếu Trứng](https://www.facebook.com/profile.php?id=100009130705198), backend developer from **Viet Nam** <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="28" /> .
+Hi, I'm [Hiếu Trứng](https://www.facebook.com/profile.php?id=100009130705198), backend developer from **VietNam** 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="28" /> .
 
 I am an open-source enthusiast and maintainer. I've learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -45,7 +46,7 @@ I am an open-source enthusiast and maintainer. I've learned a lot from the open-
 
 **Buy me a coffee ☕:**
 
-<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="300" ></a>
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="250" ></a>
 
 <br />
 
