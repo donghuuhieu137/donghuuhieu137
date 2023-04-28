@@ -14,7 +14,7 @@
 
 <br /> <br />
 
-Hi, I'm [Hiếu Trứng](https://www.facebook.com/profile.php?id=100009130705198), backend developer from **VietNam** 
+Hi, I'm [Hiếu Trứng](https://www.facebook.com/profile.php?id=100009130705198), Backend developer && Devops from **VietNam** 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="28" /> .
 
 I am an open-source enthusiast and maintainer. I've learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
